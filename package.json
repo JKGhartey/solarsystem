@@ -1,0 +1,17 @@
+{
+  "name": "solarsystem",
+  "version": "1.0.0",
+  "description": "\"How To Make An Object Rotate Around Another Object In Three.js - Create A Solar System\" YouTube tutorial project files https://youtu.be/XXzqSAt3UIw",
+  "main": "index.js",
+  "dependencies": {
+    "parcel": "^2.8.3",
+    "sharp": "^0.28.3",
+    "three": "^0.151.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
